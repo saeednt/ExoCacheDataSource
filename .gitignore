@@ -96,3 +96,4 @@ fabric.properties
 *.iml
 
 # Keystore files
+/gradle/
