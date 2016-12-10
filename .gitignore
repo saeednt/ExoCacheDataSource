@@ -1,13 +1,4 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-### Android template
+
 # Built application files
 *.apk
 *.ap_
@@ -43,16 +34,14 @@ proguard/
 captures/
 
 # Intellij
-.idea/workspace.xml
+.idea/
 .idea/tasks.xml
-.idea/libraries
 
 # Keystore files
 *.jks
 
 # External native build folder generated in Android Studio 2.2 and later
 ### Gradle template
-/build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -80,8 +69,6 @@ gradle-app.setting
 .idea/dynamic.xml
 .idea/uiDesigner.xml
 
-# Gradle:
-.idea/gradle.xml
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
@@ -105,3 +92,7 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+=======
+*.iml
+
+# Keystore files
